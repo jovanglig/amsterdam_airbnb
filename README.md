@@ -33,8 +33,7 @@ Performance measuring
 MOTIVATION:
 Being an Airbnb host myself who rents out several properties in Rotterdam, the second largest city in the Netherlands, I am fascinated by the amount of Airbnbs that have sprung up in Amsterdam and the urban parts of the country. Given the thighter regulations in Amsterdam concerning specifically home rental and gradually increasing tourist and rental income taxes, it is interesting to figure out which people are running multiple listings on Airbnb and as such have created a business out of it and where these listings are located on a map. This listing data, since it is real data, also lends itself well to devise a regression model which can accurately predict the price of stay, which I am very fascinated by.
 
-
-I made a blogpost on the Medium platform about this analysis which you can find here:  
+I made a blogpost on the Medium platform about this analysis which you can find here:  https://medium.com/@jovangligorevi/finding-out-who-the-biggest-airbnb-home-owners-are-in-amsterdam-47bfdf8294f7
 
 *********************
 RESULTS:
